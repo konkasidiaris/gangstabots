@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gangstabots/static/css/main.ed358cab.chunk.css",
+    "main.js": "/gangstabots/static/js/main.35b80ba7.chunk.js",
+    "main.js.map": "/gangstabots/static/js/main.35b80ba7.chunk.js.map",
+    "runtime-main.js": "/gangstabots/static/js/runtime-main.cc726ce2.js",
+    "runtime-main.js.map": "/gangstabots/static/js/runtime-main.cc726ce2.js.map",
+    "static/js/2.3a31961d.chunk.js": "/gangstabots/static/js/2.3a31961d.chunk.js",
+    "static/js/2.3a31961d.chunk.js.map": "/gangstabots/static/js/2.3a31961d.chunk.js.map",
+    "index.html": "/gangstabots/index.html",
+    "precache-manifest.b3a0ccfc4496bb8ea9e902e4bdbce015.js": "/gangstabots/precache-manifest.b3a0ccfc4496bb8ea9e902e4bdbce015.js",
+    "service-worker.js": "/gangstabots/service-worker.js",
+    "static/css/main.ed358cab.chunk.css.map": "/gangstabots/static/css/main.ed358cab.chunk.css.map",
+    "static/js/2.3a31961d.chunk.js.LICENSE.txt": "/gangstabots/static/js/2.3a31961d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gangstabots/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc726ce2.js",
+    "static/js/2.3a31961d.chunk.js",
+    "static/css/main.ed358cab.chunk.css",
+    "static/js/main.35b80ba7.chunk.js"
+  ]
+}
