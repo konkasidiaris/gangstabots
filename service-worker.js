@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gangstabots/precache-manifest.b3a0ccfc4496bb8ea9e902e4bdbce015.js"
+  "/gangstabots/precache-manifest.9edd2fdc99d6e446b6cc047f4d0f85c4.js"
 );
 
 self.addEventListener('message', (event) => {

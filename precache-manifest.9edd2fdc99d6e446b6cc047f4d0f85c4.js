@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "477a46118b8237f53aa746a9469b32c4",
+    "revision": "de578fe3a8c9e3f764acdb04271879c0",
     "url": "/gangstabots/index.html"
   },
   {
-    "revision": "e1aca60f3c4104ce23c2",
+    "revision": "6112e81bc6a4a10ba41e",
     "url": "/gangstabots/static/css/main.ed358cab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gangstabots/static/js/2.3a31961d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1aca60f3c4104ce23c2",
-    "url": "/gangstabots/static/js/main.35b80ba7.chunk.js"
+    "revision": "6112e81bc6a4a10ba41e",
+    "url": "/gangstabots/static/js/main.d1413afd.chunk.js"
   },
   {
     "revision": "6107553384257795471c",
